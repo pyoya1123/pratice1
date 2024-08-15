@@ -1,2 +1,2 @@
 # pratice1
-practice1
+기본편 복습
